@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Dictionary\bin\Debug\net8.0\Dictionary.exe
+D:\Programmering\Programmering\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+D:\Programmering\Programmering\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+D:\Programmering\Programmering\Dictionary\bin\Debug\net8.0\Dictionary.dll
+D:\Programmering\Programmering\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+D:\Programmering\Programmering\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+D:\Programmering\Programmering\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Dictionary\obj\Debug\net8.0\Dictionary.dll
+D:\Programmering\Programmering\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+D:\Programmering\Programmering\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+D:\Programmering\Programmering\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+D:\Programmering\Programmering\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll
